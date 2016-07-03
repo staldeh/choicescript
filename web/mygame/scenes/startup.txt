@@ -54,7 +54,7 @@ Our enemies to the west are weak, but they threaten soon to invade.  What will y
 
 *choice
   #Make pre-emptive war on the western lands.
-    If you can seize their territory, your kingdom will flourish.  But your army's
+    If u can seize their territory, your kingdom will flourish.  But your army's
     morale is low and the kingdom's armory is empty.  How will you win the war?
     *choice
       #Drive the peasants like slaves; if we work hard enough, we'll win.
